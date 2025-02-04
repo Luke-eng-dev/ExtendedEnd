@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "extended_end:item/obscurite_shovel"
+  }
+}

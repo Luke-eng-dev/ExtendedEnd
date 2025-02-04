@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "extended_end:block/voidbark_wood_slab"
+    },
+    "type=top": {
+      "model": "extended_end:block/voidbark_wood_slab_top"
+    },
+    "type=double": {
+      "model": "extended_end:block/voidbark_wood_slab_full"
+    }
+  }
+}
