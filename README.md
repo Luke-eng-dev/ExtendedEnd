@@ -1,36 +1,49 @@
-# 💎 Hyper Ores
-![CurseForge Version](https://img.shields.io/curseforge/v/1191797) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1191797)
+# 🪨 Extended End
 
+## ⚠️ Temporary Warning:
 
+New wood & biome generation is being added in 0.9! Meaning, If you make a world in EE-0.8, then upgrade to 0.9 when it released, you could loose world progress!
 
-![Line Spacer](https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2F2hcK1GF%2Fpage-split.png&n=-1)
-## 💫 What Does it do?
+![CurseForge Version](https://img.shields.io/curseforge/v/1192253) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1192253)
 
-Hyper Ores adds a few late-game tools and armor pieces that are 2 to 5x better than normal netherite. Hyper ores are very rare to find with only 6 veins max spawning per chunk, and only 3 ores in each vein! However, if you cant find any hyper ores, you can alawys craft it.. But its not so cheap. Just like any vanilla ore, hyper ore has its own solid block, which can be used for decoration, or changing your beacon color to a red-greenish mix!
+![Line Spacer](https://wsrv.nl/?url=https://i.ibb.co/2hcK1GF/page-split.png&n=-1)
 
+## 💫 Adds new end features
 
-<details>
-<summary>🔨 How to craft Hyper?</summary>
+Adds:
 
-First Gather these key ingredients:
-![5 Netherite Scraps and a (java.mod/possible_hyper_craft)](https://cdn.modrinth.com/data/cached_images/614c7db72c27b9784533b679d309d1cb660e1b79.png)
+*   Obscurite ore (End Dimension ore)
+*   Void Bark Wood
+*   Obscurite Tools & Armor
+*   Ore block spawning in end dimension
+*   End Biome
+*   End Flower
+*   End Enchantment book (⚠️Currently no use)
+*   End Potion (Gives Resistance & Regen for 4m)
+*   End Painting
 
-The Blue Tag in the middle can be replaced with any of these:
-![java.mod/possible_hyper_craft options (Scrap, Dia Block, Ench App, End Crystal, or neth Star)](https://cdn.modrinth.com/data/cached_images/ae6d06a89bd1f0189bdc58d9af559ede932e7128.png)
+![Line Spacer](https://wsrv.nl/?url=https://i.ibb.co/2hcK1GF/page-split.png&n=-1)
 
-</details>
-![Line Spacer](https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2F2hcK1GF%2Fpage-split.png&n=-1)
+## 🏗️ Planned Features
 
-## 🌿 Bored after beating the ender dragon?
-Hyper ore offers many hard-to-obtain tools and armor that will be worth your time grinding for, keeping you active, just a bit longer!
-![Line Spacer](https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2F2hcK1GF%2Fpage-split.png&n=-1)
-## 📃 Fabric Support is _**NOT**_ Currently Available!
-We are planning to being working on the fabric port shortly, with the fabric port will also become the main mod and the newest updated (to 1.21.1 at the time). Meaning, when we release the fabric version, the forge versions will become deprecated!
+*   End Structures for Dimension and Biome
+*   New End Creature Type
+*   Custom Waypoint/Beacon block for the end
+*   End Bed
+*   End Decoration Blocks
 
-*(Current Plan, Not Offical yet.)
+![Line Spacer](https://wsrv.nl/?url=https://i.ibb.co/2hcK1GF/page-split.png&n=-1)
 
-![Line Spacer](https://wsrv.nl/?url=https%3A%2F%2Fi.ibb.co%2F2hcK1GF%2Fpage-split.png&n=-1)
-# 🔗 Links
-- [Mirrored Forge Project](https://curseforge.com/minecraft/mc-mods/hyper-ores)
-- [Planet Minecraft Mirror Project](https://www.planetminecraft.com/mod/hyper-ores/)
-- [My Planet Minecraft Profile](https://www.planetminecraft.com/member/timeworkstudio/)
+## 🖼️ Pictures & Hidden Recipes
+
+### Obscurite vs Netherite
+
+![Obscurite vs Netherite](https://media.forgecdn.net/attachments/1085/461/screenshot-2025-02-02-123136.png)
+
+### How to make Void Absorb Potion
+
+*   Obscurite: Purple Gem
+*   Chorus Fruit: Middle Bottle Slot
+*   Void Absorb Potion: Brewed Item
+
+![Void Abs Potion Crafting Recipe](https://media.forgecdn.net/attachments/1085/462/screenshot-2025-02-02-124020.png)
