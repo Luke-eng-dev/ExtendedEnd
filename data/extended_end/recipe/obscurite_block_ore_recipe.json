@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "extended_end:obscurite_block"
+    }
+  ],
+  "result": {
+    "id": "extended_end:obscurite",
+    "count": 9
+  }
+}

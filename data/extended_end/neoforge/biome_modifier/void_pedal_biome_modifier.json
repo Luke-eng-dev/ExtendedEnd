@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "extended_end:void_bark",
+  "features": "extended_end:void_pedal",
+  "step": "vegetal_decoration"
+}

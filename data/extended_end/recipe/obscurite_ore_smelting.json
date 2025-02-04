@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 2.24,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "extended_end:obscurite_ore"
+  },
+  "result": {
+    "id": "extended_end:obscurite"
+  }
+}

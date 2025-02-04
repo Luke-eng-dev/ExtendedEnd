@@ -1,0 +1,31 @@
+{
+  "description": {
+    "translate": "enchantment.extended_end.void_infusion"
+  },
+  "supported_items": [
+    "extended_end:obscurite_pickaxe",
+    "extended_end:obscurite_axe",
+    "extended_end:obscurite_sword",
+    "extended_end:obscurite_shovel",
+    "extended_end:obscurite_hoe",
+    "extended_end:obscurite_armor_helmet",
+    "extended_end:obscurite_armor_chestplate",
+    "extended_end:obscurite_armor_leggings",
+    "extended_end:obscurite_armor_boots"
+  ],
+  "weight": 10,
+  "max_level": 4,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 6,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 25,
+  "slots": [
+    "any"
+  ],
+  "exclusive_set": []
+}

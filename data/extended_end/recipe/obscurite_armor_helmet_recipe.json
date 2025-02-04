@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "extended_end:obscurite"
+    }
+  },
+  "result": {
+    "id": "extended_end:obscurite_armor_helmet",
+    "count": 1
+  }
+}
