@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "extended_end:block/voidbarkwood_log_side",
-    "particle": "extended_end:block/voidbarkwood_log_side"
-  },
-  "render_type": "solid"
-}

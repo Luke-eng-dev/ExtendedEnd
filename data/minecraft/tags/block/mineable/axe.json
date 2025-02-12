@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "extended_end:voidbark_wood_planks",
-    "extended_end:voidbark_wood_log",
-    "extended_end:voidbark_wood_wood"
+    "extended_end:shadow_planks",
+    "extended_end:shadow_log",
+    "extended_end:shadow_wood"
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "extended_end:block/shadow_planks",
+    "bottom": "extended_end:block/shadow_planks",
+    "top": "extended_end:block/shadow_planks",
+    "side": "extended_end:block/shadow_planks"
+  },
+  "render_type": "solid"
+}

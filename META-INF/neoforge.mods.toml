@@ -4,7 +4,7 @@ license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="extended_end"
-version="0.8"
+version="0.9"
 displayName="Extended End"
 displayURL="https://mcreator.net"
 logoFile="logo.png"

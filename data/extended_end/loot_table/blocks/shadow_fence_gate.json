@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "extended_end:blocks/shadow_fence_gate",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "extended_end:shadow_fence_gate"
+        }
+      ]
+    }
+  ]
+}

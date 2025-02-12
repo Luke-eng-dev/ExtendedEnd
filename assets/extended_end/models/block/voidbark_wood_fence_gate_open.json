@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_fence_gate_open",
-  "textures": {
-    "particle": "extended_end:block/voidbarkwood_planks",
-    "texture": "extended_end:block/voidbarkwood_planks"
-  },
-  "render_type": "solid"
-}

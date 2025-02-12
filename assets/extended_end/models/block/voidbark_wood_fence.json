@@ -1,8 +1,0 @@
-{
-  "parent": "block/fence_side",
-  "textures": {
-    "texture": "extended_end:block/voidbarkwood_planks",
-    "particle": "extended_end:block/voidbarkwood_planks"
-  },
-  "render_type": "solid"
-}

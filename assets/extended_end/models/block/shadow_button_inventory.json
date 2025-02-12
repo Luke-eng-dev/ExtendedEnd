@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "particle": "extended_end:block/shadow_planks",
+    "texture": "extended_end:block/shadow_planks"
+  },
+  "render_type": "solid"
+}
